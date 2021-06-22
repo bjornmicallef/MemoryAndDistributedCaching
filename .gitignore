@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MemoryAndDistributedCaching.Core/bin/Debug/netcoreapp3.1
+/MemoryAndDistributedCaching.Core/obj
+/MemoryAndDistrubutedCaching.Api/bin/Debug/netcoreapp3.1
+/MemoryAndDistrubutedCaching.Api/obj
+/MemoryAndDistrubutedCaching.Tests/bin/Debug/netcoreapp3.1
+/MemoryAndDistrubutedCaching.Tests/obj
+/.vs
